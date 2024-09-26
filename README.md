@@ -1,5 +1,5 @@
-#Practica Laboratorio
-##Ejercicio 3
+# Practica Laboratorio
+## Ejercicio 3
 ~~***La vida es una lenteja o la tomas o la dejas***~~
 - Cristiano
 - Uche
